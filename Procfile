@@ -1,1 +1,1 @@
-worker: node Yumiko.js 
+worker: node Katanushka.js 
